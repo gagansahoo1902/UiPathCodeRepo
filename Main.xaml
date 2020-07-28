@@ -43,7 +43,7 @@
       <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="539,954" sap2010:WorkflowViewState.IdRef="Sequence_5">
+  <Sequence DisplayName="Arithmatic Operation" sap:VirtualizedContainerService.HintSize="539,954" sap2010:WorkflowViewState.IdRef="Sequence_5">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int32" Name="Var1" />
       <Variable x:TypeArguments="x:Int32" Name="Var2" />
