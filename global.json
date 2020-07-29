@@ -1,3 +1,6 @@
 {
-  "sdk": { "version": "1.0.0-preview2-1-003177"}
+  "sdk": { "version": "1.0.0-preview2-1-003177"},
+  "TargetFrameworkIdentifier":".NETCoreApp",
+  "TargetFrameworkVersion":"3.1",
+  "FrameworkName":"Microsoft.AspNetCore.App"
 }
