@@ -9,7 +9,7 @@
     "UiPath.UIAutomation.Activities": "[20.4.2]"
   },
    "frameworks": {
-    "dnc451": { },
+    "dnx451": { },
     "dnxcore50": { }
   },
   "webServices": [],
