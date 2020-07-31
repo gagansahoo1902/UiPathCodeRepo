@@ -8,7 +8,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Test Git project</description>
     <dependencies>
-      <group targetFramework="netstandard2.1">
+      <group targetFramework="net461">
         <dependency id="UiPath.Excel.Activities" version="[2.8.6]" />
         <dependency id="UiPath.Mail.Activities" version="[1.8.6]" />
         <dependency id="UiPath.System.Activities" version="[20.4.0]" />
