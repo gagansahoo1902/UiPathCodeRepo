@@ -17,7 +17,7 @@
     </dependencies>
   </metadata>
       <files>
-        <file src="*.xaml" target="lib\net461" />
+        <file src="*.xaml" target="lib\net45" />
 	<file src="project.json" target="lib\net461" />
       </files>
 </package>
