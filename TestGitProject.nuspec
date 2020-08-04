@@ -15,5 +15,9 @@
         <dependency id="UiPath.UIAutomation.Activities" version="[20.4.2]" />
       </group>
     </dependencies>
+    <files>
+        <file src="*.xaml" target="lib\net461" />
+		<file src="project.json" target="lib\net461" />
+    </files>
   </metadata>
 </package>
